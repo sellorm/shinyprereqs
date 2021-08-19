@@ -1,0 +1,19 @@
+Package: shinyprereqs
+Title: Graceful checking of pre-requisites for shiny apps
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Mark",
+           family = "Sellors",
+           role = c("aut", "cre"),
+           email = "rstuff@5vcc.com")
+Description: Implements a simple mechanism for checking that
+    pre-requisites for shiny apps exist and allows for 
+    graceful failure when they don't.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports:
+    shiny,
+    yaml
