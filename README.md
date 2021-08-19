@@ -96,7 +96,7 @@ what's missing.
 ## Complete Example
 
 This is a complete example app (the classic RStudio example app using
-Geyser data!) that demonstrates the simple changes required to make 
+geyser data!) that demonstrates the simple changes required to make 
 it work with `shinyprereqs`. Notice that we've only added the 
 additional line to load the library and then slightly modified the 
 final `shinyApp( )` line.
