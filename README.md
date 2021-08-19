@@ -13,7 +13,7 @@ all of the pre-requisites for the app available at deploy time.
 For instance, if you publish an app that needs an environment variable
 to be set in order to work properly, the first publish of that app
 will leave it in a broken state while you figure out what went wrong
-and recify it.
+and rectify it.
 
 ## Installation
 
